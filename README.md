@@ -1,4 +1,4 @@
 # Akshat_kumar
 This is my first GIT Repository
 <br>
-Author - Kumar Akshat 
+Author - Kumar (Kumar)Akshat 
